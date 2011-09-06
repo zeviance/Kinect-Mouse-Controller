@@ -1,0 +1,25 @@
+﻿<Window x:Class="CLNUIDeviceTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="576" Width="1976" Loaded="Window_Loaded">
+    <Canvas Height="537">
+        <TextBlock 
+              Canvas.Left="{Binding FromLeft}" 
+              Canvas.Top="{Binding FromTop}" 
+              FontSize="{Binding TheFontSize}"
+              Text="{Binding TheCharacter}"/>
+        <!--<Rectangle Canvas.Left="10" Canvas.Top="10" Height="240" Name="rectangle1" Stroke="Black" Width="320" />
+        <Rectangle Canvas.Left="170" Canvas.Top="10" Grid.RowSpan="2" Height="240" Name="rectangle2" Stroke="Black" Width="1" />
+        <Rectangle Canvas.Left="10" Canvas.Top="130" Grid.RowSpan="2" Height="1" Name="rectangle3" Stroke="Black" Width="320" />
+        <Label Canvas.Left="12" Canvas.Top="256" Content="X: " Height="28" Name="label1" />
+        <Label Canvas.Left="12" Canvas.Top="281" Content="Y: " Height="28" Name="label2" />
+        <Label Canvas.Left="27" Canvas.Top="256" Content="-1.000" Height="28" Name="x" />
+        <Label Canvas.Left="27" Canvas.Top="281" Content="-1.000" Height="28" Name="y" />
+        <ProgressBar Canvas.Left="85" Canvas.Top="262" Foreground="Red" Height="15" Name="xp" Width="245" />
+        <ProgressBar Canvas.Left="85" Canvas.Top="287" Foreground="Green" Height="15" Name="yp" Width="245" />-->
+        <Image Canvas.Left="12" Canvas.Top="12" Height="480" Name="real" Width="640"/>
+        <Image Canvas.Left="658" Canvas.Top="12" Height="480" Name="color" Width="640"/>
+        <Image Canvas.Left="1304" Canvas.Top="12" Height="480" Width="640" Name="depth" />
+        <Button Canvas.Left="1783" Canvas.Top="502" Content="Enable Mouse" Height="23" Name="button1" Width="159" Click="button1_Click" />
+    </Canvas>
+</Window>

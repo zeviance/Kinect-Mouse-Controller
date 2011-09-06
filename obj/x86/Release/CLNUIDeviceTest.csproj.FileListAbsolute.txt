@@ -1,0 +1,1 @@
+C:\Program Files (x86)\Code Laboratories\CL NUI Platform\SDK\Samples\CLNUIDeviceTest\bin\Release\CLNUIDeviceTest.exe.config

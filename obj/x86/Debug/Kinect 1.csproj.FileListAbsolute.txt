@@ -1,0 +1,19 @@
+D:\Programming\Visual Studio Projects\Kinect 1\bin\Debug\CLNUIDevice.dll
+D:\Programming\Visual Studio Projects\Kinect 1\bin\Debug\CLNUIDeviceTest.exe.config
+D:\Programming\Visual Studio Projects\Kinect 1\bin\Debug\CLNUIDeviceTest.exe
+D:\Programming\Visual Studio Projects\Kinect 1\bin\Debug\CLNUIDeviceTest.pdb
+D:\Programming\Visual Studio Projects\Kinect 1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Programming\Visual Studio Projects\Kinect 1\obj\x86\Debug\MainWindow.baml
+D:\Programming\Visual Studio Projects\Kinect 1\obj\x86\Debug\MainWindow.g.cs
+D:\Programming\Visual Studio Projects\Kinect 1\obj\x86\Debug\App.g.cs
+D:\Programming\Visual Studio Projects\Kinect 1\obj\x86\Debug\CLNUIDeviceTest_Content.g.cs
+D:\Programming\Visual Studio Projects\Kinect 1\obj\x86\Debug\CLNUIDeviceTest_MarkupCompile.cache
+D:\Programming\Visual Studio Projects\Kinect 1\obj\x86\Debug\CLNUIDeviceTest.g.resources
+D:\Programming\Visual Studio Projects\Kinect 1\obj\x86\Debug\CLNUIDeviceTest.Properties.Resources.resources
+D:\Programming\Visual Studio Projects\Kinect 1\obj\x86\Debug\ResGen.read.1.tlog
+D:\Programming\Visual Studio Projects\Kinect 1\obj\x86\Debug\ResGen.write.1.tlog
+D:\Programming\Visual Studio Projects\Kinect 1\obj\x86\Debug\CLNUIDeviceTest.exe
+D:\Programming\Visual Studio Projects\Kinect 1\obj\x86\Debug\CLNUIDeviceTest.pdb
+D:\Programming\Visual Studio Projects\PmidicKinect\bin\Debug\CLNUIDeviceTest.exe.config
+D:\Programming\Visual Studio Projects\PmidicKinect\obj\x86\Debug\CLNUIDeviceTest.exe
+D:\Programming\Visual Studio Projects\PmidicKinect\obj\x86\Debug\CLNUIDeviceTest.pdb

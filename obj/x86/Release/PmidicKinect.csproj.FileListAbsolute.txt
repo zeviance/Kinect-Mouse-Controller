@@ -1,0 +1,48 @@
+C:\Users\Liam\Desktop\SDK\Samples\KinectTouch\bin\Release\CLNUIDevice.dll
+C:\Users\Liam\Desktop\SDK\Samples\KinectTouch\bin\Release\CLNUIDeviceTest.exe.config
+C:\Users\Liam\Desktop\SDK\Samples\KinectTouch\bin\Release\CLNUIDeviceTest.exe
+C:\Users\Liam\Desktop\SDK\Samples\KinectTouch\bin\Release\CLNUIDeviceTest.pdb
+C:\Users\Liam\Desktop\SDK\Samples\KinectTouch\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Liam\Desktop\SDK\Samples\KinectTouch\obj\x86\Release\MainWindow.baml
+C:\Users\Liam\Desktop\SDK\Samples\KinectTouch\obj\x86\Release\MainWindow.g.cs
+C:\Users\Liam\Desktop\SDK\Samples\KinectTouch\obj\x86\Release\App.g.cs
+C:\Users\Liam\Desktop\SDK\Samples\KinectTouch\obj\x86\Release\CLNUIDeviceTest_Content.g.cs
+C:\Users\Liam\Desktop\SDK\Samples\KinectTouch\obj\x86\Release\CLNUIDeviceTest_MarkupCompile.cache
+C:\Users\Liam\Desktop\SDK\Samples\KinectTouch\obj\x86\Release\CLNUIDeviceTest.g.resources
+C:\Users\Liam\Desktop\SDK\Samples\KinectTouch\obj\x86\Release\CLNUIDeviceTest.Properties.Resources.resources
+C:\Users\Liam\Desktop\SDK\Samples\KinectTouch\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Liam\Desktop\SDK\Samples\KinectTouch\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Liam\Desktop\SDK\Samples\KinectTouch\obj\x86\Release\CLNUIDeviceTest.exe
+C:\Users\Liam\Desktop\SDK\Samples\KinectTouch\obj\x86\Release\CLNUIDeviceTest.pdb
+C:\Users\Chris Wong\Desktop\KinectTouch\bin\Release\CLNUIDeviceTest.exe.config
+C:\Users\Chris Wong\Desktop\KinectTouch\obj\x86\Release\CLNUIDeviceTest.exe
+C:\Users\Chris Wong\Desktop\KinectTouch\obj\x86\Release\CLNUIDeviceTest.pdb
+C:\Users\Chris Wong\Desktop\KinectTouch\bin\Release\CLNUIDevice.dll
+C:\Users\Chris Wong\Desktop\KinectTouch\bin\Release\CLNUIDeviceTest.exe
+C:\Users\Chris Wong\Desktop\KinectTouch\bin\Release\CLNUIDeviceTest.pdb
+C:\Users\Chris Wong\Desktop\KinectTouch\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Chris Wong\Desktop\KinectTouch\obj\x86\Release\MainWindow.baml
+C:\Users\Chris Wong\Desktop\KinectTouch\obj\x86\Release\MainWindow.g.cs
+C:\Users\Chris Wong\Desktop\KinectTouch\obj\x86\Release\App.g.cs
+C:\Users\Chris Wong\Desktop\KinectTouch\obj\x86\Release\CLNUIDeviceTest_Content.g.cs
+C:\Users\Chris Wong\Desktop\KinectTouch\obj\x86\Release\CLNUIDeviceTest_MarkupCompile.cache
+C:\Users\Chris Wong\Desktop\KinectTouch\obj\x86\Release\CLNUIDeviceTest.g.resources
+C:\Users\Chris Wong\Desktop\KinectTouch\obj\x86\Release\CLNUIDeviceTest.Properties.Resources.resources
+C:\Users\Chris Wong\Desktop\KinectTouch\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Chris Wong\Desktop\KinectTouch\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Chris Wong\Desktop\Kinect\KinectTouch\bin\Release\CLNUIDeviceTest.exe.config
+C:\Users\Chris Wong\Desktop\Kinect\KinectTouch\obj\x86\Release\CLNUIDeviceTest.exe
+C:\Users\Chris Wong\Desktop\Kinect\KinectTouch\obj\x86\Release\CLNUIDeviceTest.pdb
+C:\Users\Chris Wong\Desktop\Kinect\KinectTouch\bin\Release\CLNUIDevice.dll
+C:\Users\Chris Wong\Desktop\Kinect\KinectTouch\bin\Release\CLNUIDeviceTest.exe
+C:\Users\Chris Wong\Desktop\Kinect\KinectTouch\bin\Release\CLNUIDeviceTest.pdb
+C:\Users\Chris Wong\Desktop\Kinect\KinectTouch\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Chris Wong\Desktop\Kinect\KinectTouch\obj\x86\Release\MainWindow.baml
+C:\Users\Chris Wong\Desktop\Kinect\KinectTouch\obj\x86\Release\MainWindow.g.cs
+C:\Users\Chris Wong\Desktop\Kinect\KinectTouch\obj\x86\Release\App.g.cs
+C:\Users\Chris Wong\Desktop\Kinect\KinectTouch\obj\x86\Release\CLNUIDeviceTest_Content.g.cs
+C:\Users\Chris Wong\Desktop\Kinect\KinectTouch\obj\x86\Release\CLNUIDeviceTest_MarkupCompile.cache
+C:\Users\Chris Wong\Desktop\Kinect\KinectTouch\obj\x86\Release\CLNUIDeviceTest.g.resources
+C:\Users\Chris Wong\Desktop\Kinect\KinectTouch\obj\x86\Release\CLNUIDeviceTest.Properties.Resources.resources
+C:\Users\Chris Wong\Desktop\Kinect\KinectTouch\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Chris Wong\Desktop\Kinect\KinectTouch\obj\x86\Release\ResGen.write.1.tlog

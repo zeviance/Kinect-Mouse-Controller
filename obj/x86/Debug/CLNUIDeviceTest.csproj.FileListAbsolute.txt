@@ -1,0 +1,19 @@
+C:\Program Files (x86)\Code Laboratories\CL NUI Platform\SDK\Samples\CLNUIDeviceTest\bin\Debug\CLNUIDevice.dll
+C:\Program Files (x86)\Code Laboratories\CL NUI Platform\SDK\Samples\CLNUIDeviceTest\bin\Debug\CLNUIDeviceTest.exe.config
+C:\Program Files (x86)\Code Laboratories\CL NUI Platform\SDK\Samples\CLNUIDeviceTest\bin\Debug\CLNUIDeviceTest.exe
+C:\Program Files (x86)\Code Laboratories\CL NUI Platform\SDK\Samples\CLNUIDeviceTest\bin\Debug\CLNUIDeviceTest.pdb
+C:\Program Files (x86)\Code Laboratories\CL NUI Platform\SDK\Samples\CLNUIDeviceTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Program Files (x86)\Code Laboratories\CL NUI Platform\SDK\Samples\CLNUIDeviceTest\obj\x86\Debug\MainWindow.baml
+C:\Program Files (x86)\Code Laboratories\CL NUI Platform\SDK\Samples\CLNUIDeviceTest\obj\x86\Debug\MainWindow.g.cs
+C:\Program Files (x86)\Code Laboratories\CL NUI Platform\SDK\Samples\CLNUIDeviceTest\obj\x86\Debug\App.g.cs
+C:\Program Files (x86)\Code Laboratories\CL NUI Platform\SDK\Samples\CLNUIDeviceTest\obj\x86\Debug\CLNUIDeviceTest_Content.g.cs
+C:\Program Files (x86)\Code Laboratories\CL NUI Platform\SDK\Samples\CLNUIDeviceTest\obj\x86\Debug\CLNUIDeviceTest_MarkupCompile.cache
+C:\Program Files (x86)\Code Laboratories\CL NUI Platform\SDK\Samples\CLNUIDeviceTest\obj\x86\Debug\CLNUIDeviceTest.g.resources
+C:\Program Files (x86)\Code Laboratories\CL NUI Platform\SDK\Samples\CLNUIDeviceTest\obj\x86\Debug\CLNUIDeviceTest.Properties.Resources.resources
+C:\Program Files (x86)\Code Laboratories\CL NUI Platform\SDK\Samples\CLNUIDeviceTest\obj\x86\Debug\ResGen.read.1.tlog
+C:\Program Files (x86)\Code Laboratories\CL NUI Platform\SDK\Samples\CLNUIDeviceTest\obj\x86\Debug\ResGen.write.1.tlog
+C:\Program Files (x86)\Code Laboratories\CL NUI Platform\SDK\Samples\CLNUIDeviceTest\obj\x86\Debug\CLNUIDeviceTest.exe
+C:\Program Files (x86)\Code Laboratories\CL NUI Platform\SDK\Samples\CLNUIDeviceTest\obj\x86\Debug\CLNUIDeviceTest.pdb
+D:\Programming\Visual Studio Projects\Kinect 1\bin\Debug\CLNUIDeviceTest.exe.config
+D:\Programming\Visual Studio Projects\Kinect 1\obj\x86\Debug\CLNUIDeviceTest.exe
+D:\Programming\Visual Studio Projects\Kinect 1\obj\x86\Debug\CLNUIDeviceTest.pdb
